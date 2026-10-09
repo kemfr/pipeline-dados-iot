@@ -118,10 +118,15 @@ Abra o endereço local indicado pelo Streamlit, normalmente `http://localhost:85
 
 ## 9. Evidências do dashboard
 
-As capturas reais estão disponíveis na pasta `screenshots/`:
+As imagens abaixo foram capturadas durante a execução local do dashboard Streamlit. Elas também estão versionadas na pasta `screenshots/` deste repositório.
 
-- `dashboard_01_visao_geral.png`: indicadores e gráficos de temperatura média e volume por hora.
-- `dashboard_02_evolucao_e_insights.png`: evolução diária e destaques analíticos.
+### Visão geral do dashboard
+
+![Dashboard IoT — visão geral, indicadores e gráficos de temperatura média e leituras por hora](screenshots/dashboard_01_visao_geral.png)
+
+### Evolução diária e principais insights
+
+![Dashboard IoT — evolução diária das temperaturas e destaques analíticos](screenshots/dashboard_02_evolucao_e_insights.png)
 
 ## 10. Resultados observados
 
